@@ -4,7 +4,6 @@ echo "Task 1"
 
 tasklist
 
-echo "==========================="
+echo "Task 2"
 
-echo "task 2"
-ipconfig
+curl -O https://en.wikipedia.org/wiki/Google_Search#/media/File:Google_Homepage.svg
